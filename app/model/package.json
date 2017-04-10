@@ -1,0 +1,10 @@
+{
+  "name": "model",
+  "version": "0.0.1",
+  "description": "mobx模型",
+  "main": "index.js",
+  "author": {
+    "name": "shenlgin"
+  },
+  "license": "ISC"
+}

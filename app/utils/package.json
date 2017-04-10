@@ -1,0 +1,10 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "工具集",
+  "main": "index.js",
+  "author": {
+    "name": "shenglin"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "constants",
+  "version": "0.0.1",
+  "description": "常量 枚举",
+  "main": "index.js",
+  "author": {
+    "name": "shenlgin"
+  },
+  "license": "ISC"
+}
